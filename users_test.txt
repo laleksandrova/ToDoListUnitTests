@@ -1,0 +1,10 @@
+1
+admin
+adminpass
+Administrator
+Administrator
+2020-02-17 16:02:32
+0
+2020-02-17 16:02:32
+0
+true
